@@ -1,0 +1,22 @@
+{
+  "name": "node-avancado",
+  "version": "1.0.0",
+  "description": "Estudando mais sobre Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcos-px/node-avancado.git"
+  },
+  "author": "Marcos Teixeira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcos-px/node-avancado/issues"
+  },
+  "homepage": "https://github.com/marcos-px/node-avancado#readme",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
